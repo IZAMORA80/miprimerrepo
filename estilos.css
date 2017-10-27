@@ -1,0 +1,22 @@
+h1{
+   background : Black;
+   color: white;
+  }
+  #amarillo{
+           color yellow;
+           }
+  #rojo{
+        color red;
+	}	      		
+	h2{
+           color : purple;
+	   }
+	 h3{ 
+             color : green;
+	    }
+  td{
+     border: 1px solid black
+    }
+  .verde{
+         background-color: green;    
+        }
